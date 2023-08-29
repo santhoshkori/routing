@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.waveimagesty {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+.waveandimgcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoullistcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.unorderlistcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  color: #12022f;
+  font-weight: 600;
+}
+.list {
+  margin-right: 15px;
+}
